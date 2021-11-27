@@ -7,4 +7,4 @@ dependencies:
   - scikit-learn
   - mlflow
   - gunicorn
-  - libopenblas
+  - openblas
