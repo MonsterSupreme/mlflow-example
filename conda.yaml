@@ -5,6 +5,4 @@ dependencies:
   - numpy
   - pandas
   - scikit-learn
-  - pip
-  - pip:
-    - mlflow
+  - mlflow
